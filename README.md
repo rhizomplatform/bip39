@@ -1,7 +1,6 @@
 # BIP39
 
-[![Build Status](https://travis-ci.org/rafaelescrich/bip39.svg?branch=master)](https://travis-ci.org/rafaelescrich/bip39)
-<!-- [![NPM](https://img.shields.io/npm/v/bip39.svg)](https://www.npmjs.org/package/bip39) -->
+[![Build Status](https://travis-ci.org/rhizomplatform/bip39.svg?branch=master)](https://travis-ci.org/rhizomplatform/bip39)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
